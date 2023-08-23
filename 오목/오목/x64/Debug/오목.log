@@ -1,0 +1,13 @@
+﻿  main.cpp
+E:\Cood\오목\오목\오목\오목\Console.h(10,16): warning C4838: 'int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
+E:\Cood\오목\오목\오목\오목\Console.h(10,21): warning C4838: 'int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
+E:\Cood\오목\오목\오목\오목\DRAW_BOARD.h(10,19): warning C4838: 'int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
+E:\Cood\오목\오목\오목\오목\DRAW_BOARD.h(10,24): warning C4838: 'int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
+E:\Cood\오목\오목\오목\오목\Event_Processing.h(329,20): warning C4805: '==': 연산에 'int' 형식과 'bool' 형식을 함께 사용하는 것은 안전하지 않습니다.
+E:\Cood\오목\오목\오목\오목\Event_Processing.h(329,42): warning C4805: '==': 연산에 'int' 형식과 'bool' 형식을 함께 사용하는 것은 안전하지 않습니다.
+E:\Cood\오목\오목\오목\오목\Event_Processing.h(329,67): warning C4805: '==': 연산에 'int' 형식과 'bool' 형식을 함께 사용하는 것은 안전하지 않습니다.
+E:\Cood\오목\오목\오목\오목\Event_Processing.h(329,93): warning C4805: '==': 연산에 'int' 형식과 'bool' 형식을 함께 사용하는 것은 안전하지 않습니다.
+E:\Cood\오목\오목\오목\오목\Event_Processing.h(333,20): warning C4805: '==': 연산에 'int' 형식과 'bool' 형식을 함께 사용하는 것은 안전하지 않습니다.
+E:\Cood\오목\오목\오목\오목\Event_Processing.h(333,42): warning C4805: '==': 연산에 'int' 형식과 'bool' 형식을 함께 사용하는 것은 안전하지 않습니다.
+E:\Cood\오목\오목\오목\오목\main.cpp(143,48): warning C4805: '==': 연산에 'int' 형식과 'bool' 형식을 함께 사용하는 것은 안전하지 않습니다.
+  오목.vcxproj -> E:\Cood\오목\오목\오목\x64\Debug\오목.exe
